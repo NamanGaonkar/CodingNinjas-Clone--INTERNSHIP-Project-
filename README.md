@@ -2,7 +2,7 @@
 
 A modern, responsive educational website clone built with React, Vite, and Tailwind CSS, inspired by Coding Ninjas' design and functionality.
 
-## 🎨 Screenshots
+## Screenshots
 
 ### Homepage Hero Section
 ![Screenshot 1](./assets/1.png)
@@ -13,7 +13,7 @@ A modern, responsive educational website clone built with React, Vite, and Tailw
 ### Course Cards & Details
 ![Screenshot 3](./assets/3.png)
 
-## 🚀 Features
+##  Features
 
 - **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - **Modern UI** - Clean and professional interface with Tailwind CSS
@@ -23,14 +23,14 @@ A modern, responsive educational website clone built with React, Vite, and Tailw
 - **Faculty Section** - Display instructor profiles and expertise
 - **SEO Friendly** - Properly structured HTML and semantic markup
 
-## 📋 Tech Stack
+##  Tech Stack
 
 - **Frontend Framework** - React 18.2
 - **Build Tool** - Vite 5.0
 - **Styling** - Tailwind CSS 3.4
 - **Node Package Manager** - npm
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -51,7 +51,7 @@ npm run dev
 
 The app will be available at `http://localhost:5173`
 
-## 📦 Available Scripts
+##  Available Scripts
 
 ```powershell
 # Development server (with hot reload)
@@ -64,7 +64,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -81,7 +81,7 @@ src/
 └── package.json            # Dependencies and scripts
 ```
 
-## 🎯 Components Overview
+##  Components Overview
 
 ### Header
 - Top banner with AI courses link
@@ -117,7 +117,7 @@ src/
 - Community links
 - Social media links
 
-## 🎨 Customization
+##  Customization
 
 ### Colors
 Edit the Tailwind classes in components to change colors:
@@ -134,7 +134,7 @@ Add custom fonts in `src/index.css`:
 ### Images
 Replace emoji placeholders with actual images by modifying the `gradient` and `emoji` fields in component data.
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Mobile** - < 640px
 - **Tablet** - 640px to 1024px
@@ -146,14 +146,14 @@ Replace emoji placeholders with actual images by modifying the `gradient` and `e
 - **`postcss.config.cjs`** - PostCSS configuration for Tailwind
 - **`package.json`** - Project dependencies and scripts
 
-## 📝 Notes
+##  Notes
 
 - This is an educational project for learning React and Tailwind CSS
 - Images in the cards are currently emojis; replace with actual course images
 - Form submissions are logged to console; integrate with backend as needed
 - Responsive design tested on common screen sizes
 
-## 🚀 Deployment
+##  Deployment
 
 ### Deploy to Vercel (Recommended)
 
@@ -169,11 +169,11 @@ npm run build
 # Upload dist/ folder to Netlify
 ```
 
-## 📄 License
+##  License
 
 This project is for educational purposes. Coding Ninjas is a registered trademark of Sunrise Mentors Pvt. Ltd.
 
-## 👨‍💻 Developer
+##  Developer
 
 Built for learning React, Vite, and Tailwind CSS
 
