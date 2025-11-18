@@ -179,5 +179,5 @@ Built for learning React, Vite, and Tailwind CSS
 
 ---
 
-Made with ❤️ for aspiring developers
+Made By : Naman Gaonkar
 
